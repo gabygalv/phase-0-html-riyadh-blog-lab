@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-01-19T23:22:30.735Z",
+    "end": "2023-01-19T23:22:30.763Z",
+    "duration": 28
+  },
+  "tests": [
+    {
+      "title": "has a <h1> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 6,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h2> element with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <h3> elements with the correct content",
+      "fullTitle": "index.html the content section has three <h3> elements with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <p> elements with the correct content",
+      "fullTitle": "index.html the content section has three <p> elements with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <img> elements with the correct attributes",
+      "fullTitle": "index.html the content section has three <img> elements with the correct attributes",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has two <a> elements with the correct attributes",
+      "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a <h1> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 6,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h2> element with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <h3> elements with the correct content",
+      "fullTitle": "index.html the content section has three <h3> elements with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <p> elements with the correct content",
+      "fullTitle": "index.html the content section has three <p> elements with the correct content",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <img> elements with the correct attributes",
+      "fullTitle": "index.html the content section has three <img> elements with the correct attributes",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has two <a> elements with the correct attributes",
+      "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-html-riyadh-blog-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
